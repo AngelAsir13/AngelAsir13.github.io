@@ -6,3 +6,5 @@ categories: docker iaw
 ---
 
 Practica sobre docker
+
+![]({{ site.url }}/images/docker.png)
