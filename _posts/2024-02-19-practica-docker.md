@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Practica docker"
-date:   2024-02-19 13:47:19 -0600
+date:   2024-02-19 01:47:19 -0600
 categories: docker iaw
 ---
 
